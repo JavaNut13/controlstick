@@ -18,6 +18,6 @@ Controlstick has been tested with an official and an unofficial DualShock 3 cont
 + Minecraft
 + Portal
 
-The only game so far to fail is the Stanley Parable, which is disappointing. :'(
+The only game so far to fail is the Stanley Parable, which is disappointing :'(. Also some games which distinguish between left and right shift keys may not work, as a generic _shift_ is the only key that is emulated.
 
 Contact me [@JavaNut13](http://twitter.com/javanut13) about stuff and things.
