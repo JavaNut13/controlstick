@@ -110,13 +110,10 @@ public class ConfigController {
 					maps = ControlGroup.fromList(ControlMapIO.read());
 					System.out.println(maps);
 				} catch(FileNotFoundException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				} catch(IOException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				} catch(ClassNotFoundException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 			}
