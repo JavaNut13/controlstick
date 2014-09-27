@@ -20,4 +20,10 @@ Controlstick has been tested with an official and an unofficial DualShock 3 cont
 
 The only game so far to fail is the Stanley Parable, which is disappointing :'(. Also some games which distinguish between left and right shift keys may not work, as a generic _shift_ is the only key that is emulated.
 
-Contact me [@JavaNut13](http://twitter.com/javanut13) about stuff and things.
+### License
+
+This project uses [JInput](https://java.net/projects/jinput) which is available under the _BSD 2-Clause License_. Which means it has a [disclaimer](http://opensource.org/licenses/bsd-license.php).
+
+Any modifications/ forks of the Controlstick code must be non-commercial and have a clear attribution back to [me](http://javanut13.github.io) and why not [JInput](https://java.net/projects/jinput) too.
+
+tl;dr --> Controlstick is provided as-is; it could break (it probably won't, but it might!) and if you want to use the code just contact me [@JavaNut13](http://twitter.com/javanut13) first.
